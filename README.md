@@ -10,7 +10,7 @@
 
 ### 📖 简介
 
-Goggles Highlighter —— 一个 Roblox 脚本工具，用于高亮显示特定对象。
+Goggles Highlighter —— 一个 Roblox 脚本工具，用于特定游戏高亮显示特定对象。
 
 **版本**：0.0.2  
 **作者**：Dr.U-H  

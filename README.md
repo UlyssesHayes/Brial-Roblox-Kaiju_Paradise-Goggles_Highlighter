@@ -1,4 +1,4 @@
-# Goggles Highlighter
+# Kaiju Paradise - Goggles Highlighter
 
 ---
 

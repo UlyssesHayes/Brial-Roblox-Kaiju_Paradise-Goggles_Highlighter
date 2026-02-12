@@ -20,7 +20,7 @@
     along with this program. If not, see <https://www.gnu.org/licenses/>.
 
 	Online script loader:
-	loadstring(game:HttpGet("https://download.brial.cn/resource/lua/GogglesHighlighter.lua"))()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/UlyssesHayes/Brial-Roblox-Kaiju_Paradise-Goggles_Highlighter/main/GogglesHighlighter.lua"))()
 	
 	!!!Disclaimer!!!
 	This script is for educational purposes only.

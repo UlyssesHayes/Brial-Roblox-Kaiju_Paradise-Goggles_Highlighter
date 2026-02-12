@@ -21,7 +21,7 @@ Goggles Highlighter —— 一个 Roblox 脚本工具，用于特定游戏高亮
 ### 📦 在线加载
 
 ```lua
-loadstring(game:HttpGet("https://download.brial.cn/resource/lua/GogglesHighlighter.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/UlyssesHayes/Brial-Roblox-Kaiju_Paradise-Goggles_Highlighter/main/GogglesHighlighter.lua"))()
 ```
 
 ---
@@ -76,7 +76,7 @@ Goggles Highlighter —— A Roblox script utility for highlighting specific obj
 ### 📦 Online Loader
 
 ```lua
-loadstring(game:HttpGet("https://download.brial.cn/resource/lua/GogglesHighlighter.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/UlyssesHayes/Brial-Roblox-Kaiju_Paradise-Goggles_Highlighter/main/GogglesHighlighter.lua"))()
 ```
 
 ---

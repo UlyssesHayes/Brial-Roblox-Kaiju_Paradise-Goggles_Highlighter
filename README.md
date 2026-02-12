@@ -1,4 +1,4 @@
-# Kaiju Paradise - Goggles Highlighter
+# Roblox - Kaiju Paradise - Goggles Highlighter
 
 ---
 
